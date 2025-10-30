@@ -33,7 +33,7 @@ Este repositório documenta meu primeiro mini home lab, feito com uma máquina v
 
 ## 📸 Prints do processo
 
-![Image Alt][image_url](https://github.com/xManiaBR/Primeiro-mini-homelab/blob/87279dd6910a487e907f84ece0e716f5f25e7990/wake%20up%2C%20neo.png)
+![Image Alt](https://github.com/xManiaBR/Primeiro-mini-homelab/blob/87279dd6910a487e907f84ece0e716f5f25e7990/wake%20up%2C%20neo.png)
 
 ---
 
