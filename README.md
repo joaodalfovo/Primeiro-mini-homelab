@@ -32,7 +32,8 @@ Este repositório documenta meu primeiro mini home lab, feito com uma máquina v
 ---
 
 ## 📸 Prints do processo
-(wake-up,-neo.png)
+
+![wake up, neo]
 
 ---
 
