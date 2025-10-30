@@ -27,7 +27,7 @@ Este repositório documenta meu primeiro mini home lab, feito com uma máquina v
 1. Criei uma máquina virtual no VMware com Ubuntu Server
 2. Instalei o Apache2 (`sudo apt install apache2`)
 3. Testei acessando o IP da VM no navegador (`http://192.168.x.x`)
-4. Editei o arquivo `index.html` e confirmei que o texto aparecia no navegador
+4. Editei o arquivo `index.html` e confirmei que o texto aparecia no navegador (wake up, neo)
 
 ---
 
