@@ -33,7 +33,7 @@ Este repositório documenta meu primeiro mini home lab, feito com uma máquina v
 
 ## 📸 Prints do processo
 
-![wake up, neo]
+[![wake up, neo]](https://github.com/xManiaBR/Primeiro-mini-homelab/blob/7bfb73aae26c0da34fea831163cada278c3fbb21/wake%20up%2C%20neo.png)
 
 ---
 
